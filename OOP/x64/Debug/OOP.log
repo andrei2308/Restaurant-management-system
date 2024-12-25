@@ -1,0 +1,5 @@
+﻿  OOP.cpp
+C:\Users\Andrei\source\repos\OOP\OOP\OOP.cpp(207,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Andrei\source\repos\OOP\OOP\OOP.cpp(618,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrei\source\repos\OOP\OOP\OOP.cpp(619,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  OOP.vcxproj -> C:\Users\Andrei\source\repos\OOP\x64\Debug\OOP.exe
